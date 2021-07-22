@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre Diogo Silveira dos Santos	</title>
-	<atom:link href="//https://di-santos.github.io/me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>//https://di-santos.github.io/me</link>
+	<atom:link href="http://https://di-santos.github.io/me/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://di-santos.github.io/me</link>
 	<description>Graduando em Sistemas de informação pela UNICAMP e freelancer</description>
 	<lastBuildDate>Thu, 22 Jul 2021 14:04:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
